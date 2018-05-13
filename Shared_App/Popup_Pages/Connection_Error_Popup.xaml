@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="Shared_App.Popup_Pages.Connection_Error_Popup">
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+        <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand"  Padding="10">
+            <Frame CornerRadius="15" VerticalOptions="Center" BackgroundColor="#F3F2DE" Padding="10">
+                <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+                    <Label x:Name="connection_status" VerticalOptions="Start"  FontSize="18" TextColor="#606060"/>
+                    <Button Text="OK" FontAttributes="Bold" BackgroundColor="#606060" TextColor="#F3F2DE"  FontSize="Medium" HorizontalOptions="Center" Margin="5" x:Name="OK_Button"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </StackLayout>
+    
+</pages:PopupPage>

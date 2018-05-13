@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                xmlns:controls="clr-namespace:Plugin.CrossPlatformTintedImage.Abstractions;assembly=Plugin.CrossPlatformTintedImage.Abstractions"
+                x:Class="Shared_App.HelpPage"
+                BackgroundColor="#F3F2DE">
+
+
+    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent">
+        <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="#606060" Padding="5" x:Name="Heading">
+            <Label x:Name="Main_Label" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Text="HELP" FontSize="Large" FontAttributes="Bold" TextColor="#F3F2DE"/>
+            <controls:TintedImage TintColor="#F3F2DE" Source="close_icon.png" WidthRequest="20" HeightRequest="20" HorizontalOptions="End" x:Name="Close_Btn" Margin="0,0,5,0"/>
+        </StackLayout>
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="CenterAndExpand"  x:Name="List_Stack" >
+            <ListView  x:Name="listView" HorizontalOptions="Center" VerticalOptions="FillAndExpand" HasUnevenRows="True" SeparatorVisibility="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout  HorizontalOptions="Center" >
+                                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center"  Text="{Binding Heading}"   FontSize="22" FontAttributes="Bold" TextColor="#606060" Margin="0,20,0,0"/>
+                                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center"  Text="{Binding Detail}"  FontSize="20"  TextColor="#606060" Margin="10,10,10,0"/>
+                                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center"  Text="{Binding Detail2}"  FontSize="20"  TextColor="#606060" Margin="10,10,10,0"/>
+                                    <Label HorizontalOptions="Center" HorizontalTextAlignment="Center"  Text="{Binding Detail3}"  FontSize="20"  TextColor="#606060" Margin="10,10,10,0"/>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

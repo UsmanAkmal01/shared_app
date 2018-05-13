@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+			 xmlns:controls="clr-namespace:Plugin.CrossPlatformTintedImage.Abstractions;assembly=Plugin.CrossPlatformTintedImage.Abstractions"
+             x:Class="Shared_App.Level1"
+			 BackgroundColor="#F3F2DE"
+			 x:Name="Main_Content"
+			 >
+	<StackLayout x:Name="stack" >
+		<!-- Start: Need to center justify here -->
+		<StackLayout VerticalOptions="Start" Orientation="Vertical" Spacing="0"  BackgroundColor="#413537" x:Name="Start_Stack">
+
+			<StackLayout Orientation ="Horizontal" Padding="0,0,0,20">
+				<controls:TintedImage HorizontalOptions="StartAndExpand" Source="score.png" WidthRequest="40" HeightRequest="50" TintColor="#F3F2DE" x:Name="Score_Button"/>
+
+				<Label Text="0" TextColor="#F3F2DE" FontSize="Large"  YAlign="Center" XAlign="Center" x:Name="Score1" Margin="0,20,0,0"/>
+				<StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0">
+					<Image Source="chris.png" HorizontalOptions="CenterAndExpand"/>
+					<controls:TintedImage Source="turn.png" HorizontalOptions="CenterAndExpand" x:Name="Player1" WidthRequest="20" HeightRequest="20"/>
+				</StackLayout>
+
+				<Image Source="main_log.png" WidthRequest="40" HeightRequest="30" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0"/>
+				
+				<StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0">
+					<Image  HorizontalOptions="CenterAndExpand" x:Name="Player2_Image" />
+					<controls:TintedImage Source="turn.png" HorizontalOptions="CenterAndExpand" x:Name="Player2" WidthRequest="20" HeightRequest="20" TintColor="#413537"/>
+				</StackLayout>
+
+				<Label Text="0" TextColor="#F3F2DE" FontSize="Large" YAlign="Center" XAlign="Center" x:Name="Score2" Margin="0,20,0,0"/>
+
+				<controls:TintedImage HorizontalOptions="EndAndExpand" Source="menu.png" WidthRequest="40" HeightRequest="50" TintColor="#F3F2DE" x:Name="Menu_Button"/>
+			</StackLayout>
+			<Grid ColumnSpacing="0">
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="5*" />
+					<ColumnDefinition Width="5*" />
+				</Grid.ColumnDefinitions>
+				<BoxView  Grid.Column="0" HeightRequest="3"  x:Name="Player1_Box"/>
+				<BoxView Grid.Column="1"  HeightRequest="3"  x:Name="Player2_Box"/>
+			</Grid>
+		</StackLayout>
+
+
+		<!-- End: Need to center justify here-->
+		<StackLayout  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" x:Name="Buttons" >
+		</StackLayout>
+		
+		<StackLayout  BackgroundColor="#413537" VerticalOptions="End" Padding="0,20,0,0">
+			<StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+				<StackLayout>
+					<Image Source="ads.png" HorizontalOptions="FillAndExpand" Aspect="AspectFill"></Image>
+				</StackLayout>
+
+				<StackLayout Orientation ="Horizontal"  Spacing="40"  HorizontalOptions="CenterAndExpand" Margin="0,0,0,20">
+					<StackLayout>
+						<controls:TintedImage Source="single.png" HeightRequest="21" WidthRequest="21" TintColor="Transparent" x:Name="Computer"/>
+					</StackLayout>
+					<StackLayout>
+						<controls:TintedImage Source="group.png" HeightRequest="21" WidthRequest="21" TintColor="Transparent" x:Name="Friends"/>
+					</StackLayout>
+					<StackLayout>
+						<controls:TintedImage Source="globe.png" HeightRequest="21" WidthRequest="21" TintColor="Transparent" x:Name="Online"/>
+					</StackLayout>
+					<StackLayout>
+						<controls:TintedImage Source="question.png" HeightRequest="21" WidthRequest="21" TintColor="Transparent" x:Name="Help"/>
+					</StackLayout>
+					<StackLayout>
+						<controls:TintedImage Source="settings2.png" HeightRequest="21" WidthRequest="21" TintColor="Transparent" x:Name="Settings"/>
+					</StackLayout>
+				</StackLayout>
+			</StackLayout>
+
+		</StackLayout>
+
+
+	</StackLayout>
+
+
+</ContentPage>

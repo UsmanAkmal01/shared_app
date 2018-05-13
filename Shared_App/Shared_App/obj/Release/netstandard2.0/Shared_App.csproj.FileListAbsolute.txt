@@ -1,0 +1,58 @@
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.deps.json
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.dll
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Mono.Android.dll
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Mono.Android.xml
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csprojResolveAssemblyReference.cache
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.ResolveComReference.cache
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.CoreCompileInputs.cache
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.App.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.HelpPage.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.Level1.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.ListViewPage.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.MainPage.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.Menu.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.StatisticsPage.xaml.g.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.AssemblyInfoInputs.cache
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.AssemblyInfo.cs
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.CopyComplete
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.dll
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.deps.json
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.dll
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.ResolveComReference.cache
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.CoreCompileInputs.cache
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.App.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.HelpPage.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.Level1.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.ListViewPage.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.MainPage.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.Menu.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.StatisticsPage.xaml.g.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.AssemblyInfoInputs.cache
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.AssemblyInfo.cs
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.dll
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.deps.json
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Shared_App.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Mono.Android.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\bin\Release\netstandard2.0\Mono.Android.xml
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csprojResolveAssemblyReference.cache
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.ResolveComReference.cache
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.CoreCompileInputs.cache
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.App.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.HelpPage.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.Level1.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.ListViewPage.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.MainPage.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.Menu.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.StatisticsPage.xaml.g.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.AssemblyInfoInputs.cache
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.AssemblyInfo.cs
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.csproj.CopyComplete
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App\obj\Release\netstandard2.0\Shared_App.pdb

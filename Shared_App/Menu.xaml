@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:circle ="clr-namespace:ButtonCircle.FormsPlugin.Abstractions;assembly=ButtonCircle.FormsPlugin.Abstractions"         
+             x:Class="Shared_App.Menu">
+        <AbsoluteLayout VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand">
+
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="Main.png" Aspect="AspectFill"/>
+        <StackLayout Orientation="Vertical" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+        <Image Margin="0,20,0,0"  Source="main_log.png" WidthRequest="100" HeightRequest="71" VerticalOptions="Start" HorizontalOptions="CenterAndExpand"/>
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" x:Name="Buttons_Layout" Spacing="20">
+            <Button  Text="SINGLE PLAYER"  FontSize="Large" BackgroundColor="#3277F7" TextColor="White" x:Name="Single_Game" />
+            <Button  Text="MULTIPLAYER" FontSize="Large" BackgroundColor="#3277F7" TextColor="White" x:Name="Multiplayer_Game" />
+            <Button  Text="INVITE PLAYER" FontSize="Large" BackgroundColor="#3277F7" TextColor="White" x:Name="Invite_Player" />
+        </StackLayout>
+    </StackLayout>
+
+    </AbsoluteLayout>       
+           
+</ContentPage>

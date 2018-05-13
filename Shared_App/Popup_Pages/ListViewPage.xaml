@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+            xmlns:controls="clr-namespace:Plugin.CrossPlatformTintedImage.Abstractions;assembly=Plugin.CrossPlatformTintedImage.Abstractions"
+             x:Class="Shared_App.Popup_Pages.ListViewPage"
+            x:Name="Main">
+    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" x:Name="Full_Layout">
+        <Frame HasShadow="True" CornerRadius="10" BackgroundColor="#F3F2DE" HorizontalOptions="End" VerticalOptions="Start" x:Name="Frame_Content">
+            <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="Transparent" Margin="-20">
+                <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="#AAAAAA" Padding="5" x:Name="Heading_Stack">
+                    <Label x:Name="Main_Label" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Text="Menu" FontSize="Medium" FontAttributes="Bold" TextColor="#F3F2DE"/>
+                    <controls:TintedImage TintColor="#F3F2DE" Source="close_icon.png" WidthRequest="20" HeightRequest="20" HorizontalOptions="End" x:Name="Close_Btn"/>
+                </StackLayout>
+                
+                <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand"  x:Name="List_Stack" Padding="10">
+                    <ListView x:Name="listView" HorizontalOptions="Center" VerticalOptions="Start"  HasUnevenRows="True"  SeparatorColor="#626262">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <ViewCell.View> 
+                                        <StackLayout Orientation="Horizontal" Padding="5" HorizontalOptions="FillAndExpand">
+                                            <Image Source="{Binding image_det}"  WidthRequest="18" HeightRequest="18"/>
+                                            <Label Text="{Binding text_det}"  FontSize="Medium" TextColor="#808080" />
+                                            <Image Source="{Binding image_next}" HorizontalOptions="EndAndExpand" WidthRequest="18" HeightRequest="18"/>
+                                        </StackLayout>
+                                    </ViewCell.View>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+        
+</pages:PopupPage>

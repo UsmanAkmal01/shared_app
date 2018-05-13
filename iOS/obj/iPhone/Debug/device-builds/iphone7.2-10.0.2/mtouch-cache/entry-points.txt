@@ -1,0 +1,27 @@
+Function=xamarin_timezone_get_data
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/ahmad/Projects/Shared_App/iOS/obj/iPhone/Debug/device-builds/iphone7.2-10.0.2/mtouch-cache/Link/System.dll
+Function=mono_pmip

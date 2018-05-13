@@ -1,0 +1,501 @@
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.dll
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\com.companyname.Shared_App.apk
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\com.companyname.Shared_App-Signed.apk
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.dll
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csprojResolveAssemblyReference.cache
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csproj.CoreCompileInputs.cache
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csproj.CopyComplete
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.dll
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\bin\com.companyname.Shared_App.apk
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\values\styles.xml
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\logo.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\boxes.ico
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\chris.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\tony.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\ads.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\group.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings2.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\globe.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\question.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\single.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\red.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\ball3.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\welcome.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\main.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\main_log.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\turn.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\score.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\menu.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\close_icon.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\achievement.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\chewing_gum.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\difficulty.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\down_filled.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\easy.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\hard.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\help.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\like.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\medium.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\migrate_score.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\monacco.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\more.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\new_game.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\online.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\pacifico.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\repeat.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\scores.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings3.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\single_player.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sound_no.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sound_yes.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\stats.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sun_flower.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\theme.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\tsunammi.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\two_players.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\up_down.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\up_filled.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\robot.png
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\R.cs.flag
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\uploadflags.txt
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Android.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\mscorlib.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\OpenTK-1.0.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\OpenTK.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Core.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Json.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Xml.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Xml.Linq.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Data.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Numerics.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Transactions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Data.Tds.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Security.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.IO.Compression.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Net.Http.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Web.Services.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.CJK.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.MidEast.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.Other.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.Rare.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.West.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\mscorlib.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\OpenTK-1.0.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\OpenTK.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Core.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Json.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Xml.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Data.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Data.Tds.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.CJK.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.MidEast.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.Other.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.Rare.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.West.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.CJK.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.MidEast.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.Other.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.Rare.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.West.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\mscorlib.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Shared_App.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Core.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Nouman\source\repos\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Xml.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.dll
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\com.companyname.Shared_App.apk
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\com.companyname.Shared_App-Signed.apk
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.dll
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csprojResolveAssemblyReference.cache
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csproj.CoreCompileInputs.cache
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csproj.CopyComplete
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.dll
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\bin\com.companyname.Shared_App.apk
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\icon.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-xhdpi\icon.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-xxhdpi\icon.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\layout\tabbar.xml
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\layout\toolbar.xml
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\values\styles.xml
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\logo.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\boxes.ico
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\chris.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\tony.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\ads.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\group.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings2.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\globe.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\question.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\single.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\red.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\ball3.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\welcome.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\main.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\main_log.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\turn.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\score.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\menu.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\close_icon.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\achievement.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\chewing_gum.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\difficulty.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\down_filled.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\easy.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\hard.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\help.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\like.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\medium.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\migrate_score.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\monacco.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\more.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\new_game.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\online.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\pacifico.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\repeat.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\scores.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings3.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\single_player.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sound_no.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sound_yes.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\stats.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sun_flower.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\theme.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\tsunammi.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\two_players.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\up_down.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\up_filled.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\robot.png
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\R.cs.flag
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\uploadflags.txt
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\ButtonCircle.FormsPlugin.Abstractions.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Android.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\mscorlib.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\OpenTK-1.0.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\OpenTK.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.SimpleAudioPlayer.Abstractions.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Core.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Json.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Xml.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Xml.Linq.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Data.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Numerics.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Transactions.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Data.Tds.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Security.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.IO.Compression.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.ComponentModel.Composition.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Net.Http.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Runtime.Serialization.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.ServiceModel.Internals.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Web.Services.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.CJK.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.MidEast.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.Other.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.Rare.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.West.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Abstractions.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Android.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\mscorlib.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\OpenTK-1.0.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\OpenTK.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.Abstractions.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Core.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Json.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Xml.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Xml.Linq.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Data.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Numerics.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Transactions.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Data.Tds.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Security.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.IO.Compression.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Net.Http.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Runtime.Serialization.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Web.Services.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.CJK.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.MidEast.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.Other.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.Rare.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.West.pdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\ButtonCircle.FormsPlugin.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\FormsViewGroup.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.SimpleAudioPlayer.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Backup of Xamarine\Dots & Boxes\Dots & Boxes Classic Strategy\Game with AI\Game with Statistics Page _ V9\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\com.companyname.Shared_App.apk
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\com.companyname.Shared_App-Signed.apk
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csprojResolveAssemblyReference.cache
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csproj.CoreCompileInputs.cache
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.csproj.CopyComplete
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\Shared_App.Android.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\bin\com.companyname.Shared_App.apk
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\values\styles.xml
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\logo.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\boxes.ico
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\chris.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\tony.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\ads.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\group.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings2.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\globe.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\question.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\single.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\red.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\ball3.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\welcome.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\main.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\main_log.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\turn.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\score.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\menu.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\close_icon.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable-hdpi\achievement.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\chewing_gum.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\difficulty.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\down_filled.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\easy.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\hard.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\help.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\like.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\medium.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\migrate_score.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\monacco.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\more.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\new_game.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\online.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\pacifico.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\repeat.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\scores.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\settings3.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\single_player.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sound_no.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sound_yes.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\stats.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\sun_flower.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\theme.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\tsunammi.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\two_players.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\up_down.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\up_filled.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\res\drawable\robot.png
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\R.cs.flag
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\uploadflags.txt
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.CJK.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.MidEast.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.Other.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.Rare.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\I18N.West.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Android.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Data.Tds.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Mono.Security.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\mscorlib.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\OpenTK-1.0.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\OpenTK.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Core.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Data.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.IO.Compression.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Json.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Net.Http.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Numerics.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Transactions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Web.Services.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Xml.Linq.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\System.Xml.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.CJK.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.MidEast.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.Other.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.Rare.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\I18N.West.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Mono.Android.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Mono.Security.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\mscorlib.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\Shared_App.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Core.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Net.Http.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\android\assets\System.Xml.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Abstractions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.CJK.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.MidEast.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.Other.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.Rare.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\I18N.West.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Android.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Data.Tds.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Mono.Security.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\mscorlib.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\OpenTK-1.0.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\OpenTK.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.Abstractions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Core.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Data.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.IO.Compression.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Json.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Net.Http.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Numerics.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Transactions.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Web.Services.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Xml.Linq.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\System.Xml.pdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\bin\Release\Shared_App.Android.dll
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Shared_App.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\ButtonCircle.FormsPlugin.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Plugin.SimpleAudioPlayer.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Nouman\source\Shared_App\Shared_App\Shared_App.Android\obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb

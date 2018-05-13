@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="Shared_App.Win_Popup_Page"
+            x:Name="Main_Popup">
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" Padding="20" BackgroundColor="Transparent" >
+        <Frame CornerRadius="20"  x:Name="win_message_frame" Padding="20" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Label x:Name="message_label" FontSize="25" FontAttributes="Bold" HorizontalOptions="Center"/>
+        </Frame>
+        <StackLayout x:Name="Menu" VerticalOptions="Center" HorizontalOptions="FillAndExpand" BackgroundColor="#F3F2DE">
+            <Button Text="Statistics"  HorizontalOptions="FillAndExpand"/>
+            <Button Text="High score" HorizontalOptions="FillAndExpand"/>
+            <Button Text="Achievments" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+    </StackLayout>
+</pages:PopupPage>
