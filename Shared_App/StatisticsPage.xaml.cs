@@ -24,9 +24,9 @@ namespace Shared_App
         public StatisticsPage()
         {
             InitializeComponent();
-            NavigationPage.SetHasNavigationBar(this, false);
+            NavigationPage.SetHasNavigationBar(this, true);
             this.SizeChanged += StatisticsPage_SizeChanged;
-            Set_Gesturez();
+           
             Set_List();
         }
 
@@ -57,12 +57,6 @@ namespace Shared_App
             }
         }
 
-        public void Set_Gesturez()
-        {
-            var close_gesture = new TapGestureRecognizer();
-            close_gesture.Tapped += Close_gesture_Tapped;
-            Close_Btn.GestureRecognizers.Add(close_gesture);
-        }
 
         public async void Set_List()
         {

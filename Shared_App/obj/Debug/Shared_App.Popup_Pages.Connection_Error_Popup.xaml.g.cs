@@ -11,8 +11,8 @@
 namespace Shared_App.Popup_Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ahmad/Projects/Shared_App/Shared_App/Popup_Pages/Connection_Error_Popup.xa" +
-        "ml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/aqdasmalik/Desktop/Shared_App/Shared_App/Popup_Pages/Connection_Error_Popu" +
+        "p.xaml")]
     public partial class Connection_Error_Popup : global::Rg.Plugins.Popup.Pages.PopupPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

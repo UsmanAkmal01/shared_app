@@ -7,9 +7,9 @@
     <StackLayout Orientation="Vertical">
         <StackLayout VerticalOptions="Start" HorizontalOptions="FillAndExpand" Orientation="Horizontal" BackgroundColor="#606060" x:Name="Heading">
             <Label x:Name="Main_Label" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Text="STATISTICS" FontSize="Large" FontAttributes="Bold" TextColor="#F3F2DE"/>
-            <controls:TintedImage TintColor="#F3F2DE" Source="close_icon.png" WidthRequest="20" HeightRequest="20" HorizontalOptions="End" x:Name="Close_Btn" Margin="0,0,5,0"/>
         </StackLayout>
-        
+
+
         <carousal_form:CarouselViewControl x:Name="carousal_view" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
             <carousal_form:CarouselViewControl.ItemTemplate>
                 <DataTemplate>
@@ -28,7 +28,7 @@
                                 </StackLayout>
                             </Frame>
 
-                            <ScrollView IsVisible="{Binding is_scroll_visible}">
+                            <ScrollView IsVisible="{Binding is_scroll_visible}" Orientation="Vertical" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
                                 <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="20" x:Name="Container">
                                     <Frame CornerRadius="20" BackgroundColor="#E4E4D6" VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand" Padding="20" Margin="0,5,0,0">
                                         <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="Start" Spacing="10">

@@ -6,6 +6,7 @@ using Shared_App.FileHelper;
 using Shared_App.ViewModel;
 using Xamarin.Forms;
 
+[assembly: Dependency(typeof(Application))]
 namespace Shared_App
 {
     public partial class App : Application
@@ -14,8 +15,7 @@ namespace Shared_App
         static public int Density;
         static public int ScreenHeight;
         static Statistics_ViewModel user_db = new Statistics_ViewModel();
-        LocalFileHelper localFileHelper = new LocalFileHelper();
-
+      
 
         public App()
         {

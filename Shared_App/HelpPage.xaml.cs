@@ -68,9 +68,9 @@ namespace Shared_App
 
         public void Set_Gesturez()
         {
-            var close_gesture = new TapGestureRecognizer();
-            close_gesture.Tapped += Close_gesture_Tapped;
-            Close_Btn.GestureRecognizers.Add(close_gesture);
+            //var close_gesture = new TapGestureRecognizer();
+            //close_gesture.Tapped += Close_gesture_Tapped;
+            //Close_Btn.GestureRecognizers.Add(close_gesture);
 
         }
 

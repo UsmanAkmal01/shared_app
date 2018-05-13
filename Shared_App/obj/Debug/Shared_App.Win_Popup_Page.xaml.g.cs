@@ -11,7 +11,7 @@
 namespace Shared_App {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ahmad/Projects/Shared_App/Shared_App/Win_Popup_Page.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/aqdasmalik/Desktop/Shared_App/Shared_App/Win_Popup_Page.xaml")]
     public partial class Win_Popup_Page : global::Rg.Plugins.Popup.Pages.PopupPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -283,10 +283,7 @@ namespace Shared_App
 
                 player.Play();
 
-                //player.PlaybackEnded += delegate
-                //{
-                 //   player.Dispose();
-                //};
+
             }
         }
 
@@ -308,10 +305,7 @@ namespace Shared_App
 
                 player.Play();
 
-                player.PlaybackEnded += delegate
-                {
-                    player.Dispose();
-                };
+               
             }
         }
 
@@ -330,17 +324,6 @@ namespace Shared_App
             {
                 resourceBitmap = SKBitmap.Decode(skStream);
             }
-
-            //if (resourceBitmap.ColorType != SKImageInfo.PlatformColorType)
-            //{
-              //  resourceBitmap.CopyTo(resourceBitmap, SKImageInfo.PlatformColorType);
-            //}
-
-           // int scaling_factor;// = Convert.ToInt32(Math.Round(Convert.ToDouble(App.ScreenWidth / canvas_width)));
-           // scaling_factor = App.ScreenWidth / canvas_width;
-           // int s_width = resourceBitmap.Width;
-           // int s_height = resourceBitmap.Height;
-          //  resourceBitmap = resourceBitmap.Resize(new SKImageInfo(s_width * scaling_factor, s_height * scaling_factor), SKBitmapResizeMethod.Lanczos3);
 
 
             top_stack_height = Start_Stack.Height;
@@ -1263,13 +1246,13 @@ namespace Shared_App
                 page = new ListViewPage("Settings", game_type, top_stack_height, difficulty_level, "no");
             }
             page.AddItemCallback = new AddItemDelegate(Set_Popup_Value);
-            Navigation.PushPopupAsync(page);
+            Navigation.PushPopupAsync(page).ConfigureAwait(false);
         }
 
         private void Help_Tapped(object sender, EventArgs e)
         {
             Play_Sound();
-            Application.Current.MainPage.Navigation.PushAsync(new HelpPage());
+            Application.Current.MainPage.Navigation.PushAsync(new HelpPage()).ConfigureAwait(false);
         }
         private void Online_tap_Tapped(object sender, EventArgs e)
         {
@@ -1278,7 +1261,7 @@ namespace Shared_App
             {
                 if (!Functions.is_Connected_To_Internet())
                 {
-                    Navigation.PushPopupAsync(new Connection_Error_Popup());
+                    Navigation.PushPopupAsync(new Connection_Error_Popup()).ConfigureAwait(false);
                 }
             }
             catch
@@ -1328,10 +1311,10 @@ namespace Shared_App
                     break;
 
                 case "Help":
-                    Application.Current.MainPage.Navigation.PushAsync(new HelpPage());
+                    Application.Current.MainPage.Navigation.PushAsync(new HelpPage()).ConfigureAwait(false);
                     break;
                 case "Statistics":
-                    Application.Current.MainPage.Navigation.PushAsync(new StatisticsPage());
+                    Application.Current.MainPage.Navigation.PushAsync(new StatisticsPage()).ConfigureAwait(false);
                     break;
 
                 case "Swap Colours":

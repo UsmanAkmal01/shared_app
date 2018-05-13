@@ -16,6 +16,7 @@ namespace Shared_App.iOS
             App.ScreenHeight = (int)UIScreen.MainScreen.Bounds.Height;
             global::Xamarin.Forms.Forms.Init();
             Plugin.CrossPlatformTintedImage.iOS.TintedImageRenderer.Init();
+            CarouselView.FormsPlugin.iOS.CarouselViewRenderer.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

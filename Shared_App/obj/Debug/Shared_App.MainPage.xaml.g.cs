@@ -11,7 +11,7 @@
 namespace Shared_App {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/ahmad/Projects/Shared_App/Shared_App/MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/aqdasmalik/Desktop/Shared_App/Shared_App/MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

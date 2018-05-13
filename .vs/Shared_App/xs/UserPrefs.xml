@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{392EBEAB-1896-41D5-A113-6B374010B10D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared_App/HelpPage.xaml">
     <Files>
-      <File FileName="iOS/AppDelegate.cs" Line="25" Column="1" />
+      <File FileName="Shared_App/Level1.xaml.cs" Line="645" Column="30" />
+      <File FileName="Shared_App/StatisticsPage.xaml" Line="31" Column="102" />
+      <File FileName="Shared_App/HelpPage.xaml" Line="14" Column="92" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Shared__App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" automaticSigning="True">
+  <MonoDevelop.Ide.ItemProperties.Shared__App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.29BC2955-235C-4092-B3D1-9D702E7B10F7" automaticSigning="True">
     <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="WM6UUCFCYP" TeamId="786756UNS6" />
   </MonoDevelop.Ide.ItemProperties.Shared__App.iOS>
   <MultiItemStartupConfigurations />

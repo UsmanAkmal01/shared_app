@@ -21,9 +21,6 @@ namespace Shared_App {
         private global::Xamarin.Forms.Label Main_Label;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Plugin.CrossPlatformTintedImage.Abstractions.TintedImage Close_Btn;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::CarouselView.FormsPlugin.Abstractions.CarouselViewControl carousal_view;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -31,7 +28,6 @@ namespace Shared_App {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(StatisticsPage));
             Heading = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.StackLayout>(this, "Heading");
             Main_Label = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "Main_Label");
-            Close_Btn = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Plugin.CrossPlatformTintedImage.Abstractions.TintedImage>(this, "Close_Btn");
             carousal_view = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::CarouselView.FormsPlugin.Abstractions.CarouselViewControl>(this, "carousal_view");
         }
     }

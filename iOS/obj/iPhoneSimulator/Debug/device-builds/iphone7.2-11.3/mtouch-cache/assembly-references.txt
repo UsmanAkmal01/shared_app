@@ -1,14 +1,12 @@
 /Users/aqdasmalik/Desktop/Shared_App/iOS/bin/iPhoneSimulator/Debug/Shared_App.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/mscorlib.dll
-/Users/aqdasmalik/Desktop/Shared_App/Shared_App/bin/Debug/Shared_App.dll
+/Users/aqdasmalik/Desktop/Shared_App/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/System.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/System.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Mono.Security.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/System.Xml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
-/Users/aqdasmalik/Desktop/Shared_App/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
-/Users/aqdasmalik/Desktop/Shared_App/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Collections.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Debug.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Threading.Tasks.dll
@@ -30,6 +28,8 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Runtime.Extensions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Linq.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Reflection.Extensions.dll
+/Users/aqdasmalik/Desktop/Shared_App/Shared_App/bin/Debug/Shared_App.dll
+/Users/aqdasmalik/Desktop/Shared_App/packages/Xamarin.Forms.2.5.0.121934/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Text.RegularExpressions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.9.1.24/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Tools.dll
 /Users/aqdasmalik/Desktop/Shared_App/packages/Xam.Plugin.SimpleAudioPlayer.1.1.0/lib/Xamarin.iOS10/Plugin.SimpleAudioPlayer.Abstractions.dll
@@ -69,3 +69,4 @@
 /Users/aqdasmalik/Desktop/Shared_App/packages/Xam.Plugin.Connectivity.3.1.1/lib/Xamarin.iOS10/Plugin.Connectivity.Abstractions.dll
 /Users/aqdasmalik/Desktop/Shared_App/packages/Xam.Plugin.SimpleAudioPlayer.1.1.0/lib/Xamarin.iOS10/Plugin.SimpleAudioPlayer.dll
 /Users/aqdasmalik/Desktop/Shared_App/packages/Plugin.CrossPlatformTintedImage.1.0.0/lib/Xamarin.iOS10/Plugin.CrossPlatformTintedImage.iOS.dll
+/Users/aqdasmalik/Desktop/Shared_App/packages/CarouselView.FormsPlugin.5.2.0/lib/Xamarin.iOS10/CarouselView.FormsPlugin.iOS.dll

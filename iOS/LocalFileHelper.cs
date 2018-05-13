@@ -1,9 +1,10 @@
 ﻿using System;
 using System.IO;
 using Shared_App.FileHelper;
+using Shared_App.iOS;
 using Xamarin.Forms;
 
-[assembly:Dependency(typeof(LocalFileHelper))]
+[assembly:Dependency(typeof(Shared_App.iOS.LocalFileHelper))]
 
 namespace Shared_App.iOS
 {
@@ -17,7 +18,7 @@ namespace Shared_App.iOS
             {
                 Directory.CreateDirectory(folder_path);
             }
-            return folder_path;
+            return Path.Combine(folder_path,filename);
         }
     }
 }

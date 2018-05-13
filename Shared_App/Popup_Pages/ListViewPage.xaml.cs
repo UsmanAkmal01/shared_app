@@ -29,6 +29,7 @@ namespace Shared_App.Popup_Pages
         public ListViewPage(string argument, string game_type, double stack_height, string difficulty_level, string Sound)
         {
             InitializeComponent();
+            sound = Sound;
             game = game_type;
             stack_heights = stack_height;
             difficulty = difficulty_level;
@@ -37,7 +38,6 @@ namespace Shared_App.Popup_Pages
 
             List_Stack.SizeChanged += List_Stack_SizeChanged;
             listView.ItemSelected += ListView_ItemSelected;
-
             Set_Gesturez();
             Set_List_Contents(argument, game_type);
 

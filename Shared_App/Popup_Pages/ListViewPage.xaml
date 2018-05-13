@@ -14,7 +14,7 @@
                 </StackLayout>
                 
                 <StackLayout VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand"  x:Name="List_Stack" Padding="10">
-                    <ListView x:Name="listView" HorizontalOptions="Center" VerticalOptions="Start"  HasUnevenRows="True"  SeparatorColor="#626262">
+                    <ListView x:Name="listView" HorizontalOptions="Center" CachingStrategy="RecycleElement" VerticalOptions="Start"  HasUnevenRows="True" BackgroundColor="Transparent" SeparatorColor="#626262">
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>
