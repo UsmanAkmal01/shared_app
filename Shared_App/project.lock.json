@@ -3106,18 +3106,18 @@
     ".NETPortable,Version=v4.5,Profile=Profile111": []
   },
   "packageFolders": {
-    "/Users/aqdasmalik/.nuget/packages/": {}
+    "/Users/nextecksolutions/.nuget/packages/": {}
   },
   "project": {
     "restore": {
-      "projectUniqueName": "/Users/aqdasmalik/Desktop/Shared_App/Shared_App/Shared_App.csproj",
+      "projectUniqueName": "/Users/nextecksolutions/Documents/shared_app/Shared_App/Shared_App.csproj",
       "projectName": "Shared_App",
-      "projectPath": "/Users/aqdasmalik/Desktop/Shared_App/Shared_App/Shared_App.csproj",
-      "projectJsonPath": "/Users/aqdasmalik/Desktop/Shared_App/Shared_App/project.json",
-      "packagesPath": "/Users/aqdasmalik/.nuget/packages/",
+      "projectPath": "/Users/nextecksolutions/Documents/shared_app/Shared_App/Shared_App.csproj",
+      "projectJsonPath": "/Users/nextecksolutions/Documents/shared_app/Shared_App/project.json",
+      "packagesPath": "/Users/nextecksolutions/.nuget/packages/",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
-        "/Users/aqdasmalik/.config/NuGet/NuGet.Config"
+        "/Users/nextecksolutions/.config/NuGet/NuGet.Config"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}

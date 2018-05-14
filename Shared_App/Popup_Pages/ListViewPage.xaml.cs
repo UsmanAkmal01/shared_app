@@ -33,7 +33,7 @@ namespace Shared_App.Popup_Pages
             game = game_type;
             stack_heights = stack_height;
             difficulty = difficulty_level;
-            Frame_Content.Margin = new Thickness(0, stack_height, 10, 0);
+            Frame_Content.Margin = new Thickness(0, stack_height-App.StatusHeight, 10, 0);
             this.SizeChanged += ListViewPage_SizeChanged;
 
             List_Stack.SizeChanged += List_Stack_SizeChanged;

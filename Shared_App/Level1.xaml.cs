@@ -329,6 +329,10 @@ namespace Shared_App
             top_stack_height = Start_Stack.Height;
             starting = Convert.ToInt32(Math.Floor(Convert.ToDouble((App.ScreenWidth)) / 8));
 
+            if(App.ScreenWidth > 1500)
+            {
+                starting -= 50;
+            }
             try
             {
                 Fill_Corner_rows();

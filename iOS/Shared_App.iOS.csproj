@@ -231,7 +231,6 @@
     <BundleResource Include="Resources\question.png" />
     <BundleResource Include="Resources\red.png" />
     <BundleResource Include="Resources\repeat.png" />
-    <BundleResource Include="Resources\robot.png" />
     <BundleResource Include="Resources\score.png" />
     <BundleResource Include="Resources\scores.png" />
     <BundleResource Include="Resources\settings.png" />
@@ -247,6 +246,7 @@
     <BundleResource Include="Resources\two_players.png" />
     <BundleResource Include="Resources\up_down.png" />
     <BundleResource Include="Resources\up_filled.png" />
+    <BundleResource Include="Resources\robot.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.5.0.121934\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.5.0.121934\build\netstandard1.0\Xamarin.Forms.targets')" />

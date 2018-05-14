@@ -13,6 +13,7 @@ namespace Shared_App.iOS
         {
             App.ScreenWidth = (int)UIScreen.MainScreen.CurrentMode.Size.Width;
             ///App.ScreenWidth = (int)UIScreen.MainScreen.Bounds.Width;
+            App.StatusHeight = (int)UIKit.UIApplication.SharedApplication.StatusBarFrame.Height;
             App.ScreenHeight = (int)UIScreen.MainScreen.Bounds.Height;
             global::Xamarin.Forms.Forms.Init();
             Plugin.CrossPlatformTintedImage.iOS.TintedImageRenderer.Init();

@@ -14,6 +14,7 @@ namespace Shared_App
         static public int ScreenWidth;
         static public int Density;
         static public int ScreenHeight;
+        static public int StatusHeight;
         static Statistics_ViewModel user_db = new Statistics_ViewModel();
       
 
