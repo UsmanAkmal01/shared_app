@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{392EBEAB-1896-41D5-A113-6B374010B10D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Shared_App/HelpPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared_App/StatisticsPage.xaml">
     <Files>
       <File FileName="Shared_App/Level1.xaml.cs" Line="645" Column="30" />
-      <File FileName="Shared_App/StatisticsPage.xaml" Line="31" Column="102" />
-      <File FileName="Shared_App/HelpPage.xaml" Line="14" Column="92" />
+      <File FileName="Shared_App/StatisticsPage.xaml" Line="29" Column="37" />
+      <File FileName="Shared_App/HelpPage.xaml" Line="21" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
