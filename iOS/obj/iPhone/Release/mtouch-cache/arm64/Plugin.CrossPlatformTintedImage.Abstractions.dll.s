@@ -539,7 +539,7 @@ _mono_aot_file_info:
 	.long 32,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 113,137,103,238,232,206,63,173,217,77,7,144,24,101,54,219
+	.byte 62,152,173,81,249,85,78,215,175,159,174,20,117,214,166,117
 	.globl _mono_aot_module_Plugin_CrossPlatformTintedImage_Abstractions_info
 	.align 3
 _mono_aot_module_Plugin_CrossPlatformTintedImage_Abstractions_info:

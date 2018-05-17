@@ -305,7 +305,7 @@ bl _p_13
 .word 0xd2800001
 .word 0xf90023a2
 .word 0xf9400042
-.word 0xf941e850
+.word 0xf941f850
 .word 0xd63f0200
 .word 0xf94023a1
 .word 0xeb01001f
@@ -2927,13 +2927,13 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 57,1104,81,31,66,391195135,0,2288
-	.long 128,8,8,9,0,25,3440,1144
+	.long 57,1104,81,31,66,391195135,0,2296
+	.long 128,8,8,9,0,25,3448,1144
 	.long 544,288,0,440,512,344,0,208
 	.long 64,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 83,144,202,117,125,100,143,28,65,110,36,136,171,12,61,5
+	.byte 162,61,154,241,62,66,43,44,202,148,80,124,115,239,17,216
 	.globl _mono_aot_module_Rg_Plugins_Popup_IOS_info
 	.align 3
 _mono_aot_module_Rg_Plugins_Popup_IOS_info:

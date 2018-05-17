@@ -1852,7 +1852,7 @@ _mono_aot_file_info:
 	.long 64,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 148,52,146,184,19,59,33,147,177,199,182,254,89,120,133,212
+	.byte 8,81,185,240,215,25,230,141,165,71,194,159,173,164,139,250
 	.globl _mono_aot_module_Plugin_CrossPlatformTintedImage_iOS_info
 	.align 3
 _mono_aot_module_Plugin_CrossPlatformTintedImage_iOS_info:

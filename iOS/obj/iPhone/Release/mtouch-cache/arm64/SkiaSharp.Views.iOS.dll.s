@@ -1138,7 +1138,7 @@ bl _p_36
 .word 0xf9406fa3
 .word 0xf90063a3
 .word 0xf9400343
-.word 0xf9421870
+.word 0xf9422c70
 .word 0xd63f0200
 .word 0xf9402340
 .word 0xf900c3a0
@@ -2700,7 +2700,7 @@ bl _p_47
 .word 0xf9404fa3
 .word 0xf9003fa3
 .word 0xf9400343
-.word 0xf9424470
+.word 0xf9425870
 .word 0xd63f0200
 .word 0xf94083a1
 .word 0xaa0103e0
@@ -11824,13 +11824,13 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 71,2416,231,211,66,391195135,0,7228
-	.long 128,8,8,9,0,25,10072,2832
+	.long 71,2416,231,211,66,391195135,0,7269
+	.long 128,8,8,9,0,25,10112,2832
 	.long 2376,1744,0,2016,2328,1904,0,1320
 	.long 312,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 240,182,90,152,171,182,169,251,89,140,204,144,147,255,93,98
+	.byte 30,216,240,226,11,25,160,85,110,173,154,193,31,42,102,219
 	.globl _mono_aot_module_SkiaSharp_Views_iOS_info
 	.align 3
 _mono_aot_module_SkiaSharp_Views_iOS_info:

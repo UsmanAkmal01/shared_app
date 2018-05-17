@@ -162,7 +162,7 @@ _mono_aot_file_info:
 	.long 40,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 151,222,36,213,144,162,233,120,78,154,115,122,78,164,50,80
+	.byte 232,87,21,180,183,118,148,217,167,51,34,133,96,209,62,65
 	.globl _mono_aot_module_Plugin_SimpleAudioPlayer_Abstractions_info
 	.align 3
 _mono_aot_module_Plugin_SimpleAudioPlayer_Abstractions_info:

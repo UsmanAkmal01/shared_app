@@ -4040,7 +4040,7 @@ _mono_aot_file_info:
 	.long 112,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 119,118,166,228,189,92,69,195,45,243,28,134,173,71,90,243
+	.byte 163,165,92,114,159,102,255,233,37,49,182,185,2,35,241,106
 	.globl _mono_aot_module_CarouselView_FormsPlugin_Abstractions_info
 	.align 3
 _mono_aot_module_CarouselView_FormsPlugin_Abstractions_info:

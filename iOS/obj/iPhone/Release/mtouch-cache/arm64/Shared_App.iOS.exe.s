@@ -121,7 +121,7 @@ jit_code_start:
 	.align 4
 	.no_dead_strip Shared_App_iOS_Application_Main_string__
 Shared_App_iOS_Application_Main_string__:
-.file 1 "/Users/aqdasmalik/Desktop/Shared_App/iOS/Main.cs"
+.file 1 "/Users/nextecksolutions/Documents/shared_app/iOS/Main.cs"
 .loc 1 17 0 prologue_end
 .word 0xa9be7bfd
 .word 0x910003fd
@@ -155,7 +155,7 @@ Lme_1:
 	.align 4
 	.no_dead_strip Shared_App_iOS_AppDelegate_FinishedLaunching_UIKit_UIApplication_Foundation_NSDictionary
 Shared_App_iOS_AppDelegate_FinishedLaunching_UIKit_UIApplication_Foundation_NSDictionary:
-.file 2 "/Users/aqdasmalik/Desktop/Shared_App/iOS/AppDelegate.cs"
+.file 2 "/Users/nextecksolutions/Documents/shared_app/iOS/AppDelegate.cs"
 .loc 2 14 0 prologue_end
 .word 0xa9b97bfd
 .word 0x910003fd
@@ -193,13 +193,13 @@ add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x0, [x16, #208]
 .word 0xb9000001
 .loc 2 16 0
-bl _p_2
+bl _p_5
 .word 0xaa0003e1
 .word 0x9100a3a0
 .word 0xf9002fa0
 .word 0xaa0103e0
 .word 0xf940003e
-bl _p_5
+bl _p_6
 .word 0xf9402fbe
 .word 0xfd0003c0
 .word 0xfd0007c1
@@ -214,24 +214,47 @@ add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x0, [x16, #216]
 .word 0xb9000001
 .loc 2 17 0
-bl _p_6
-.loc 2 19 0
+bl _p_2
+.word 0xaa0003e1
+.word 0x9100a3a0
+.word 0xf9002fa0
+.word 0xaa0103e0
+.word 0xf940003e
+bl _p_7
+.word 0xf9402fbe
+.word 0xfd0003c0
+.word 0xfd0007c1
+.word 0xfd000bc2
+.word 0xfd000fc3
+.word 0xfd4023a0
+.word 0x9e780001
+.word 0x93407c21
 
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x0, [x16, #224]
-.word 0xd2802b01
-bl _p_7
-.word 0xf90033a0
+.word 0xb9000001
+.loc 2 18 0
 bl _p_8
-.word 0xf94033a1
-.word 0xf9400ba0
+.loc 2 20 0
 bl _p_9
 .loc 2 21 0
+
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x0, [x16, #232]
+.word 0xd2802a01
+bl _p_10
+.word 0xf90033a0
+bl _p_11
+.word 0xf94033a1
+.word 0xf9400ba0
+bl _p_12
+.loc 2 23 0
 .word 0xf9400ba0
 .word 0xf9400fa1
 .word 0xf94013a2
-bl _p_10
+bl _p_13
 .word 0x53001c00
 .word 0x910003bf
 .word 0xa8c77bfd
@@ -246,7 +269,7 @@ Shared_App_iOS_AppDelegate__ctor:
 .word 0x910003fd
 .word 0xf9000ba0
 .word 0xf9400ba0
-bl _p_11
+bl _p_14
 .word 0x910003bf
 .word 0xa8c27bfd
 .word 0xd65f03c0
@@ -256,41 +279,43 @@ Lme_3:
 	.align 4
 	.no_dead_strip Shared_App_iOS_LocalFileHelper_Get_Local_FilePath_string
 Shared_App_iOS_LocalFileHelper_Get_Local_FilePath_string:
-.file 3 "/Users/aqdasmalik/Desktop/Shared_App/iOS/LocalFileHelper.cs"
-.loc 3 14 0 prologue_end
+.file 3 "/Users/nextecksolutions/Documents/shared_app/iOS/LocalFileHelper.cs"
+.loc 3 15 0 prologue_end
 .word 0xa9bd7bfd
 .word 0x910003fd
-.word 0xf9000bba
+.word 0xf9000bb9
 .word 0xf9000fa0
 .word 0xf90013a1
 .word 0xd28000a0
-bl _p_12
-.loc 3 15 0
-
-adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
-add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x1, [x16, #232]
-
-adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
-add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x2, [x16, #240]
-
-adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
-add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x3, [x16, #248]
-bl _p_13
-.word 0xaa0003fa
+bl _p_15
 .loc 3 16 0
-.word 0xaa1a03e0
-bl _p_14
+
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x1, [x16, #240]
+
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x2, [x16, #248]
+
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x3, [x16, #256]
+bl _p_16
+.word 0xaa0003f9
+.loc 3 17 0
+.word 0xaa1903e0
+bl _p_17
 .word 0x53001c00
 .word 0x35000060
-.loc 3 18 0
-.word 0xaa1a03e0
-bl _p_15
-.loc 3 20 0
-.word 0xaa1a03e0
-.word 0xf9400bba
+.loc 3 19 0
+.word 0xaa1903e0
+bl _p_18
+.loc 3 21 0
+.word 0xaa1903e0
+.word 0xf94013a1
+bl _p_19
+.word 0xf9400bb9
 .word 0x910003bf
 .word 0xa8c37bfd
 .word 0xd65f03c0
@@ -342,7 +367,7 @@ unbox_trampoline_addresses:
 unwind_info:
 
 	.byte 13,12,31,0,68,14,32,157,4,158,3,68,13,29,13,12,31,0,68,14,112,157,14,158,13,68,13,29,16,12,31,0
-	.byte 68,14,48,157,6,158,5,68,13,29,68,154,4
+	.byte 68,14,48,157,6,158,5,68,13,29,68,153,4
 
 .text
 	.align 4
@@ -353,125 +378,157 @@ plt_UIKit_UIApplication_Main_string___string_string:
 _p_1:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x16, [x16, #264]
+ldr x16, [x16, #272]
 br x16
-.word 329
+.word 335
 	.no_dead_strip plt_UIKit_UIScreen_get_MainScreen
 plt_UIKit_UIScreen_get_MainScreen:
 _p_2:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x16, [x16, #272]
+ldr x16, [x16, #280]
 br x16
-.word 334
+.word 340
 	.no_dead_strip plt_UIKit_UIScreen_get_CurrentMode
 plt_UIKit_UIScreen_get_CurrentMode:
 _p_3:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x16, [x16, #280]
+ldr x16, [x16, #288]
 br x16
-.word 339
+.word 345
 	.no_dead_strip plt_UIKit_UIScreenMode_get_Size
 plt_UIKit_UIScreenMode_get_Size:
 _p_4:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
-ldr x16, [x16, #288]
-br x16
-.word 344
-	.no_dead_strip plt_UIKit_UIScreen_get_Bounds
-plt_UIKit_UIScreen_get_Bounds:
-_p_5:
-adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
-add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #296]
 br x16
-.word 349
-	.no_dead_strip plt_Xamarin_Forms_Forms_Init
-plt_Xamarin_Forms_Forms_Init:
-_p_6:
+.word 350
+	.no_dead_strip plt_UIKit_UIApplication_get_SharedApplication
+plt_UIKit_UIApplication_get_SharedApplication:
+_p_5:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #304]
 br x16
-.word 354
-	.no_dead_strip plt_wrapper_alloc_object_AllocSmall_intptr_intptr
-plt_wrapper_alloc_object_AllocSmall_intptr_intptr:
-_p_7:
+.word 355
+	.no_dead_strip plt_UIKit_UIApplication_get_StatusBarFrame
+plt_UIKit_UIApplication_get_StatusBarFrame:
+_p_6:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #312]
 br x16
-.word 359
-	.no_dead_strip plt_Shared_App_App__ctor
-plt_Shared_App_App__ctor:
-_p_8:
+.word 360
+	.no_dead_strip plt_UIKit_UIScreen_get_Bounds
+plt_UIKit_UIScreen_get_Bounds:
+_p_7:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #320]
 br x16
-.word 367
-	.no_dead_strip plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_LoadApplication_Xamarin_Forms_Application
-plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_LoadApplication_Xamarin_Forms_Application:
-_p_9:
+.word 365
+	.no_dead_strip plt_Xamarin_Forms_Forms_Init
+plt_Xamarin_Forms_Forms_Init:
+_p_8:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #328]
 br x16
-.word 372
-	.no_dead_strip plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_FinishedLaunching_UIKit_UIApplication_Foundation_NSDictionary
-plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_FinishedLaunching_UIKit_UIApplication_Foundation_NSDictionary:
-_p_10:
+.word 370
+	.no_dead_strip plt_CarouselView_FormsPlugin_iOS_CarouselViewRenderer_Init
+plt_CarouselView_FormsPlugin_iOS_CarouselViewRenderer_Init:
+_p_9:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #336]
 br x16
-.word 377
-	.no_dead_strip plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate__ctor
-plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate__ctor:
-_p_11:
+.word 375
+	.no_dead_strip plt_wrapper_alloc_object_AllocSmall_intptr_intptr
+plt_wrapper_alloc_object_AllocSmall_intptr_intptr:
+_p_10:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #344]
 br x16
-.word 382
-	.no_dead_strip plt_System_Environment_GetFolderPath_System_Environment_SpecialFolder
-plt_System_Environment_GetFolderPath_System_Environment_SpecialFolder:
-_p_12:
+.word 380
+	.no_dead_strip plt_Shared_App_App__ctor
+plt_Shared_App_App__ctor:
+_p_11:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #352]
 br x16
-.word 387
-	.no_dead_strip plt_System_IO_Path_Combine_string_string_string_string
-plt_System_IO_Path_Combine_string_string_string_string:
-_p_13:
+.word 388
+	.no_dead_strip plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_LoadApplication_Xamarin_Forms_Application
+plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_LoadApplication_Xamarin_Forms_Application:
+_p_12:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #360]
 br x16
-.word 392
-	.no_dead_strip plt_System_IO_Directory_Exists_string
-plt_System_IO_Directory_Exists_string:
-_p_14:
+.word 393
+	.no_dead_strip plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_FinishedLaunching_UIKit_UIApplication_Foundation_NSDictionary
+plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate_FinishedLaunching_UIKit_UIApplication_Foundation_NSDictionary:
+_p_13:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #368]
 br x16
-.word 397
-	.no_dead_strip plt_System_IO_Directory_CreateDirectory_string
-plt_System_IO_Directory_CreateDirectory_string:
-_p_15:
+.word 398
+	.no_dead_strip plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate__ctor
+plt_Xamarin_Forms_Platform_iOS_FormsApplicationDelegate__ctor:
+_p_14:
 adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
 add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
 ldr x16, [x16, #376]
 br x16
-.word 402
+.word 403
+	.no_dead_strip plt_System_Environment_GetFolderPath_System_Environment_SpecialFolder
+plt_System_Environment_GetFolderPath_System_Environment_SpecialFolder:
+_p_15:
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x16, [x16, #384]
+br x16
+.word 408
+	.no_dead_strip plt_System_IO_Path_Combine_string_string_string_string
+plt_System_IO_Path_Combine_string_string_string_string:
+_p_16:
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x16, [x16, #392]
+br x16
+.word 413
+	.no_dead_strip plt_System_IO_Directory_Exists_string
+plt_System_IO_Directory_Exists_string:
+_p_17:
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x16, [x16, #400]
+br x16
+.word 418
+	.no_dead_strip plt_System_IO_Directory_CreateDirectory_string
+plt_System_IO_Directory_CreateDirectory_string:
+_p_18:
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x16, [x16, #408]
+br x16
+.word 423
+	.no_dead_strip plt_System_IO_Path_Combine_string_string
+plt_System_IO_Path_Combine_string_string:
+_p_19:
+adrp x16, mono_aot_Shared_App_iOS_got@PAGE+0
+add x16, x16, mono_aot_Shared_App_iOS_got@PAGEOFF
+ldr x16, [x16, #416]
+br x16
+.word 428
 plt_end:
 .section __DATA, __bss
 	.align 3
-.lcomm mono_aot_Shared_App_iOS_got, 384
+.lcomm mono_aot_Shared_App_iOS_got, 424
 got_end:
 .section __TEXT, __const
 	.align 3
@@ -494,7 +551,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "D655319B-6D23-4C43-AB61-6BFE5E3678C0"
+	.asciz "0158B79C-C95C-4E5B-9D87-C662AA9F7265"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -571,13 +628,13 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 32,384,16,7,66,391195135,0,671
-	.long 128,8,8,9,0,25,1472,792
+	.long 33,424,20,7,66,391195135,0,697
+	.long 128,8,8,9,0,25,1584,880
 	.long 368,184,0,304,336,240,0,176
 	.long 32,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 190,251,165,249,228,209,169,215,162,236,95,249,248,90,79,83
+	.byte 122,82,176,220,213,52,45,62,4,31,204,194,237,132,252,50
 	.globl _mono_aot_module_Shared_App_iOS_info
 	.align 3
 _mono_aot_module_Shared_App_iOS_info:
@@ -5559,7 +5616,7 @@ LDIFF_SYM878=LTDIE_140 - Ldebug_info_start
 	.asciz "Shared_App.iOS.LocalFileHelper:Get_Local_FilePath"
 	.asciz "Shared_App_iOS_LocalFileHelper_Get_Local_FilePath_string"
 
-	.byte 3,14
+	.byte 3,15
 	.quad Shared_App_iOS_LocalFileHelper_Get_Local_FilePath_string
 	.quad Lme_4
 
@@ -5571,14 +5628,14 @@ LDIFF_SYM879=LDIE_I4 - Ldebug_info_start
 	.byte 0,3
 	.asciz "filename"
 
-LDIFF_SYM880=LDIE_I4 - Ldebug_info_start
+LDIFF_SYM880=LDIE_STRING - Ldebug_info_start
 	.long LDIFF_SYM880
-	.byte 0,11
+	.byte 2,141,32,11
 	.asciz "folder_path"
 
 LDIFF_SYM881=LDIE_STRING - Ldebug_info_start
 	.long LDIFF_SYM881
-	.byte 1,106,0
+	.byte 1,105,0
 
 .section __DWARF, __debug_frame,regular,debug
 
@@ -5593,7 +5650,7 @@ Lfde4_start:
 LDIFF_SYM883=Lme_4 - Shared_App_iOS_LocalFileHelper_Get_Local_FilePath_string
 	.long LDIFF_SYM883
 	.long 0
-	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,154,4
+	.byte 12,31,0,68,14,48,157,6,158,5,68,13,29,68,153,4
 	.align 3
 Lfde4_end:
 

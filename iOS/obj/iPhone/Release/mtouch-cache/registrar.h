@@ -100,6 +100,8 @@
 @class __UILongPressGestureRecognizer;
 @class UIKit_UIView_UIViewAppearance;
 @class UIKit_UINavigationBar_UINavigationBarAppearance;
+@class UIKit_UIPageViewController__UIPageViewControllerDelegate;
+@class UIKit_UIPageViewController__UIPageViewControllerDataSource;
 @class __UIPanGestureRecognizer;
 @class __UIPinchGestureRecognizer;
 @class UIKit_UIBarButtonItem_Callback;
@@ -127,6 +129,8 @@
 @class OpenTK_Platform_iPhoneOS_iPhoneOSGameView;
 @class Rg_Plugins_Popup_IOS_Renderers_PopupPageRenderer;
 @class Plugin_CrossPlatformTintedImage_iOS_TintedImageRenderer;
+@class CarouselView_FormsPlugin_iOS_ViewContainer;
+@class CarouselView_FormsPlugin_iOS_CarouselViewRenderer;
 
 @protocol UIPickerViewModel<UIPickerViewDataSource, UIPickerViewDelegate>
 @end
@@ -581,6 +585,23 @@
 
 @interface Plugin_CrossPlatformTintedImage_iOS_TintedImageRenderer : Xamarin_Forms_Platform_iOS_ImageRenderer {
 }
+	-(id) init;
+@end
+
+@interface CarouselView_FormsPlugin_iOS_ViewContainer : UIViewController {
+}
+	-(void) release;
+	-(id) retain;
+	-(int) xamarinGetGCHandle;
+	-(void) xamarinSetGCHandle: (int) gchandle;
+	-(BOOL) conformsToProtocol:(void *)p0;
+	-(id) init;
+@end
+
+@interface CarouselView_FormsPlugin_iOS_CarouselViewRenderer : Xamarin_Forms_Platform_iOS_ViewRenderer_2 {
+}
+	-(void) didMoveToSuperview;
+	-(void) didMoveToWindow;
 	-(id) init;
 @end
 

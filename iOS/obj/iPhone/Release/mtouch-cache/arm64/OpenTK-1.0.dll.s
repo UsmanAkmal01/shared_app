@@ -11014,7 +11014,7 @@ bl _p_134
 .loc 19 377 0
 .word 0xaa1a03e0
 .word 0xf9400341
-.word 0xf9413c30
+.word 0xf9414030
 .word 0xd63f0200
 .word 0x14000005
 .loc 19 378 0
@@ -11050,7 +11050,7 @@ bl _p_134
 .loc 19 384 0
 .word 0xaa1803e0
 .word 0xf9400301
-.word 0xf9413c30
+.word 0xf9414030
 .word 0xd63f0200
 .word 0xf94013a1
 bl _p_135
@@ -11060,7 +11060,7 @@ bl _p_135
 .word 0xaa1803e0
 .word 0xf94013a1
 .word 0xf9400302
-.word 0xf9413850
+.word 0xf9413c50
 .word 0xd63f0200
 .loc 19 386 0
 
@@ -29985,13 +29985,13 @@ _mono_aot_file_info:
 	.align 3
 	.quad unbox_trampoline_addresses
 
-	.long 350,4696,237,673,66,391195135,0,16639
-	.long 128,8,8,9,0,25,26760,10112
+	.long 350,4696,237,673,66,391195135,0,16659
+	.long 128,8,8,9,0,25,26784,10112
 	.long 9752,7488,0,8672,9632,8200,0,5904
 	.long 952,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 184,11,183,180,116,214,204,165,17,83,139,55,220,218,26,54
+	.byte 166,116,223,250,172,211,221,175,196,126,19,188,85,61,247,251
 	.globl _mono_aot_module_OpenTK_1_0_info
 	.align 3
 _mono_aot_module_OpenTK_1_0_info:

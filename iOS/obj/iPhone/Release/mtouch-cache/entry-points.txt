@@ -1,26 +1,26 @@
 Function=xamarin_timezone_get_data
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
 Function=xamarin_GetFolderPath
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
 Function=xamarin_log
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/mscorlib.dll
 Function=CreateZStream
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
 Function=CloseZStream
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
 Function=Flush
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
 Function=ReadZStream
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
 Function=WriteZStream
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
 Function=xamarin_start_wwan
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/System.dll
 Function=xamarin_get_block_descriptor
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
 Function=xamarin_IntPtr_objc_msgSend_IntPtr
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
 Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
 Function=UIApplicationMain
-	/Users/aqdasmalik/Desktop/Shared_App/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
+	/Users/nextecksolutions/Documents/shared_app/iOS/obj/iPhone/Release/mtouch-cache/Link/Xamarin.iOS.dll
